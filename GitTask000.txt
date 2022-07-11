@@ -1,0 +1,3 @@
+This is the first exercise to perform by the DecOps Team.
+The important part of DevOps is Git.
+The first exercise for is list all the git commands in the file named Git_command_<First Letter Of first name><First Letter of Second Name>_Knows.txt
